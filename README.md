@@ -1,7 +1,7 @@
 ### Hola a todos!!!👋
 
-- 🌱 I’m currently learning ... Desarrollo Web en Digital House.
-- 🔭 I’m currently working on ... Proyecto Integrador primer Sprint.
+- 🌱 I’m currently learning ... Desarrollo Web .
+- 🔭 I’m currently working on ....
 
 <!--
 **Gonzatdf/Gonzatdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
